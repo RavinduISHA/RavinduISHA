@@ -11,11 +11,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **VueJs, ReactJs, NodeJs**
+- 🌱 I’m currently learning **JavaScript frameworks/Libraries(VueJs, ReactJs, NodeJs) and Laravel**
 
 - 👨‍💻 All of my projects are available at [https://ravinduish.vercel.app/](https://ravinduish.vercel.app/)
 
-- 💬 Ask me about **ReactJs, MERN stack**
+- 💬 Ask me about **MERN stack**
 
 - 📫 How to reach me **rumayanga51@gmail.com**
 
