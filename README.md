@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript frameworks/Libraries(VueJs, ReactJs, NodeJs) and Laravel**
+- 🌱 I’m currently learning **JavaScript Libraries(VueJs, ReactJs, NodeJs) and Laravel**
 
 - 👨‍💻 All of my projects are available at [https://ravinduish.vercel.app/](https://ravinduish.vercel.app/)
 
