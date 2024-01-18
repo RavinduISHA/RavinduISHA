@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ravinduish.vercel.app/](https://ravinduish.vercel.app/)
 
-- 💬 Ask me about **MERN stack**
+- 💬 Ask me about **ReactJs, NextJs, , VueJs, Laravel**
 
 - 📫 How to reach me **rumayanga51@gmail.com**
 
