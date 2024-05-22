@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ravindu Umayanga</h1>
-<h3 align="center">A Passionate Software Engineer from Sri Lanka</h3>
+<h3 align="center">A Passionate Software Engineer From Sri Lanka</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+Learning+Passionate;Full%20Stack%20Developer&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg" alt="Code Image"></a>
 </p>
-
-<img align="right" alt="Coding" width="400" src="[![pexels-christina-morillo-1181675](https://github.com/RavinduISHA/RavinduISHA/assets/74870496/8070e78d-e00f-4f4d-845a-f8b30475c0ec)](https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravinduisha&label=Profile%20views&color=0e75b6&style=flat" alt="ravinduisha" /> </p>
@@ -14,7 +12,7 @@
 
 - 🌱 I’m currently learning **JavaScript Libraries and framworks(VueJs, ReactJs, NodeJs) and Laravel**
 
-- 👨‍💻 All of my projects are available at [https://ravinduish.vercel.app/](https://ravinduish.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://ravindu-ishan.vercel.app/)
 
 - 💬 Ask me about **ReactJs, NextJs, , VueJs, Laravel**
 
